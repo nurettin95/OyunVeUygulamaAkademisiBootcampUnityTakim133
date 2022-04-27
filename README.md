@@ -15,7 +15,7 @@ Takım X
 
 ## Ürün İsmi
 
--
+- Wisdom Runner
 
 ## Ürün Açıklaması
 
