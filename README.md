@@ -19,7 +19,7 @@ Takım X
 
 ## Ürün Açıklaması
 
--
+- Wisdom Runner hyper-casual türünde bölüm tabanlı bir mobil oyundur. Oyunda amacımız bölüm içerisinde verilen puan arttıran öğeleri toplamak, puan azaltan öğelerdense kaçınmaktır. Oyun içerisindeki etkileşimli nesnelerin sayısı ve karakter hızı bölümler geçildikçe artmaktadır ve bu sayede oyuncuya daha rekabetçi bir oyun deneyimi yaşatmak amaçlanmaktadır. Oyun bir öğrencinin, öğrencilik hayatı boyunca karşılaştığı nesneler ve durumlar arasındaki bağlamları somutlaştırdığı için özellikle öğrencilik hayatı içerisinde bulunan büyük bir kitle açısından cezbedici olacaktır. Oyuncunun alması ve kaçınması gereken nesneler zaten öğrenci olma bağlamının içerisinde olan durumlar olduğu için kolay anlaşılır olacak ekstradan bu durumu daha da kolaylaştırmak adına nesnelerin üzerine puanlar “-“ ve “+” puanlar olarak belirtilecektir. Oyun sonunda toplanan puana göre bir sınıflandırma yapılacak ve oyuncunun başarı kriteri bu puanlama üzerinden yapılacaktır. Bölüm geçme kriterleri oyunun hyper-casual türünde olması, herkes tarafından oynanabilir olması ve düşük zorluk seviyesinde olması gerektiği düşüncelerine dayanılarak toplanması beklenilen puanın en az %20’sinin toplaması olarak kararlaştırılmıştır. Oyunun bölümlerinin kolay geçilir olması sayesinde oyuncunun oyun akışını bozmadan daha fazla eğlenmesi ve oyunda daha fazla zaman geçirmesi amaçlanmıştır.
 
 ## Ürün Özellikleri
 
