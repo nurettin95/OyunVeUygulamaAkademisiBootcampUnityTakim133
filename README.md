@@ -23,10 +23,11 @@ Wisdom Runner hyper-casual türünde bölüm tabanlı bir mobil oyundur. Oyunda 
 
 ## Ürün Özellikleri
 
-- 
-- 
-- 
-- 
+- Hyper-casual türünde bölüm tabanlı bir mobil oyundur
+- Tek parmak ile kolayca oynanabilir.
+- Her yaştan kullanıcı için uygundur.
+- Oyun mekaniği zorlayıcı olmayan ve kolay anlaşılır şekilde tasarlanmıştır.
+- Puan sistemi ve bölüm sonu başarım animasyonları ile oyuncuda rekabet hissi uyandırır.
 
 ## Hedef Kitle
 Tüm oyunculara hitap edebilecek türden bir oyundur. Oyun bir öğrencinin, öğrencilik hayatı boyunca karşılaştığı nesneler ve durumlar arasındaki bağlamları somutlaştırdığı için özellikle öğrencilik hayatı içerisinde bulunan büyük bir kitle açısından cezbedici olacaktır
