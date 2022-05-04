@@ -23,10 +23,11 @@ Wisdom Runner hyper-casual türünde bölüm tabanlı bir mobil oyundur. Oyunda 
 
 ## Ürün Özellikleri
 
-- 
-- 
-- 
-- 
+- Hyper-casual türünde bölüm tabanlı bir mobil oyundur
+- Tek parmak ile kolayca oynanabilir.
+- Her yaştan kullanıcı için uygundur.
+- Oyun mekaniği zorlayıcı olmayan ve kolay anlaşılır şekilde tasarlanmıştır.
+- Puan sistemi ve bölüm sonu başarım animasyonları ile oyuncuda rekabet hissi uyandırır.
 
 ## Hedef Kitle
 Tüm oyunculara hitap edebilecek türden bir oyundur. Oyun bir öğrencinin, öğrencilik hayatı boyunca karşılaştığı nesneler ve durumlar arasındaki bağlamları somutlaştırdığı için özellikle öğrencilik hayatı içerisinde bulunan büyük bir kitle açısından cezbedici olacaktır
@@ -49,24 +50,19 @@ https://trello.com/b/tu02JcC2/proje-takip
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello üzerindeki tabloda iş akışına göre sıralama yapılmıştır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
+- **Daily Scrum**: Daily Scrum toplantılarının Discord ve Whatsapp üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantısı örneği jpeg formatında Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]
-![Backlog 2]
-![Backlog 3]
+ Trello Hesabımızın ekran görüntüleri.
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]
-  ![Screenshot 2]
+ Unity Dosyası üzerinden yapılan değişikliklerin ekran görüntüleri.
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Sprint sonunda yazılacak olan genel görüşler.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+   Scrum Takımı'nın takımca yaptığı, Sprint veya genel iş akışının üzerine kişiler, ilişkiler, süreçler ve araçlar kapsamında geriye yönelik bir değerlendirme ve iyileştirmedir.
 
 -**Diğer Notlar**:
 - 
