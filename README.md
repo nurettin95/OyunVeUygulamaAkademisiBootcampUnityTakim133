@@ -42,21 +42,33 @@ https://trello.com/b/tu02JcC2/proje-takip
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+- Sprint Görevleri ve Puanları
+
+1- Takım ismi belirlenecek.
+2- Oyun ismi belirlecek.
+3- GitHub Repository açılacak.
+4- Oyun Tasarım Belgesi(GDD) hazırlanacak.
+5- Karakter Animasyonu eklenecek.
+6- Character Controller yazılacak.
+7- Takım içi Github eğitim toplantısı yapılacak
+8- Oyun karakteri belirlenecek (player)
+
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello üzerindeki tabloda iş akışına göre sıralama yapılmıştır.
+-Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello üzerindeki tabloda iş akışına göre sıralama yapılmıştır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının Discord ve Whatsapp üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantısı örneği jpeg formatında Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
+- **Daily Scrum**: Daily Scrum toplantılarının Discord ve Whatsapp üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantısı örneği jpeg formatında Readme'de tarafımızdan paylaşılmaktadır:
 
 - **Sprint board update**: Sprint board screenshotları: 
- Trello Hesabımızın ekran görüntüleri.
+
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
- Unity Dosyası üzerinden yapılan değişikliklerin ekran görüntüleri.
+ 
 
 - **Sprint Review**: 
 Sprint sonunda yazılacak olan genel görüşler.
