@@ -1,8 +1,9 @@
 # OyunVeUygulamaAkademisiBootcampUnityTakim133
 Oyun ve Uygulama Akademisi 133 Numaralı Takım Unity Projesi
+
 # **Takım İsmi**
 
-Takım X
+Wisdom Creators
 
 # Ürün İle İlgili Bilgiler
 
@@ -65,6 +66,7 @@ https://trello.com/b/tu02JcC2/proje-takip
 
 - **Sprint board update**: Sprint board screenshotları: 
 
+![image](https://user-images.githubusercontent.com/93587698/167309279-73953c85-3e09-4187-bac0-60d8f9b7bfc8.png)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
