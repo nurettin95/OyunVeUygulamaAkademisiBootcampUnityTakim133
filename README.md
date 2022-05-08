@@ -74,6 +74,9 @@ https://trello.com/b/tu02JcC2/proje-takip
 
 ![6fdxly](https://user-images.githubusercontent.com/93587698/167309434-14d9b3f5-dfe4-4973-b5e4-9d304fd80bd4.gif)
 
+![image](https://user-images.githubusercontent.com/93587698/167309513-a78532de-605d-426e-a139-c79cf551978c.png)
+
+
 
 - **Sprint Review**: 
 Sprint sonunda yazılacak olan genel görüşler.
