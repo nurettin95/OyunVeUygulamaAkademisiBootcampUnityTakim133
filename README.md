@@ -41,10 +41,14 @@ https://trello.com/b/tu02JcC2/proje-takip
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**:
+
+- User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- Sprint sonunda ulaşılması belenilen puana ulaşıldı ve verilen görevler tüm takım üyeleri tarafından başarıyla tamamlandı.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
-- Sprint Görevleri ve Puanları
+
+Sprint Görevleri ve Puanları
 
 1- Takım ismi belirlenecek.                               5P           DONE
 
@@ -63,9 +67,9 @@ https://trello.com/b/tu02JcC2/proje-takip
 8- Oyun karakteri belirlenecek (player)                   10P          DONE
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve Story seçimleri**: Backlog düzeni ve storyler birbirlerini tamamlayacak şekilde iş akışına uygun şekilde düzenlenmiştir. Backloglar işi yapacak kişilere atanmış ve içerisine yapılan işllerle ilgili ayrıntılar eklenmiştir.
 
 -Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello üzerindeki tabloda iş akışına göre sıralama yapılmıştır.
 
