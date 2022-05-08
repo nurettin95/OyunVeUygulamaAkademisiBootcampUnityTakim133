@@ -45,14 +45,14 @@ https://trello.com/b/tu02JcC2/proje-takip
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 - Sprint Görevleri ve Puanları
 
-1- Takım ismi belirlenecek.
-2- Oyun ismi belirlecek.
-3- GitHub Repository açılacak.
-4- Oyun Tasarım Belgesi(GDD) hazırlanacak.
-5- Karakter Animasyonu eklenecek.
-6- Character Controller yazılacak.
-7- Takım içi Github eğitim toplantısı yapılacak
-8- Oyun karakteri belirlenecek (player)
+1- Takım ismi belirlenecek.                               5P           DONE
+2- Oyun ismi belirlecek.                                  5P           DONE
+3- GitHub Repository açılacak.                            10P          DONE
+4- Oyun Tasarım Belgesi(GDD) hazırlanacak.                30P          DONE
+5- Karakter Animasyonu eklenecek.                         15P          DONE   
+6- Character Controller yazılacak.                        30P          DONE
+7- Takım içi Github eğitim toplantısı yapılacak           15P          DONE
+8- Oyun karakteri belirlenecek (player)                   10P          DONE
 
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
