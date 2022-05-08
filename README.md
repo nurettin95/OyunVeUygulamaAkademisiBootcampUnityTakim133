@@ -69,11 +69,13 @@ Sprint Görevleri ve Puanları
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog düzeni ve storyler birbirlerini tamamlayacak şekilde iş akışına uygun şekilde düzenlenmiştir. Backloglar işi yapacak kişilere atanmış ve içerisine yapılan işllerle ilgili ayrıntılar eklenmiştir.
+- **Backlog düzeni ve Story seçimleri**: Backlog düzeni ve storyler birbirlerini tamamlayacak şekilde iş akışına uygun şekilde düzenlenmiştir. Backloglar işi yapacak kişilere atanmış ve içerisine yapılan işlerle ilgili ayrıntılar eklenmiştir.
 
 -Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello üzerindeki tabloda iş akışına göre sıralama yapılmıştır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının Discord ve Whatsapp üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantısı örneği jpeg formatında Readme'de tarafımızdan paylaşılmaktadır:
+
+
 
 - **Sprint board update**: Sprint board screenshotları: 
 
@@ -90,15 +92,14 @@ Sprint Görevleri ve Puanları
 
 
 - **Sprint Review**: 
-Sprint sonunda yazılacak olan genel görüşler.
+
+Sprint başında takım tanışma sürecini hızlı atlattı ve projeye odaklanmak için yeterli zaman bulabildik. Sprint içerisinde olabildiğince sık toplantılar yaparak tüm takımın projenin işleyişinden haberdar olmasını hedefledik. Hedeflerimize karar verirken gerçekçi olmayı ve takımın iş kapasitesini göz önünde bulundurarak sptint planlaması yaptık. Ortak görüşlerimiz sonucunda bir oyun fikrine karar verdik ve bunun üsütünden bir oyun tasarım belgesi oluşturarak iş bölümü yaptık. Yapılan iş bölümlerini bireysel olarak yerine getirdik ve son hallerini takım olarak belirledik. 
 
 - **Sprint Retrospective:**
-   Scrum Takımı'nın takımca yaptığı, Sprint veya genel iş akışının üzerine kişiler, ilişkiler, süreçler ve araçlar kapsamında geriye yönelik bir değerlendirme ve iyileştirmedir.
 
--**Diğer Notlar**:
-- 
+Toplantıda yaptığımız değerlendirmeler sonucunda Sprint içerisinde yapılması planlanan tüm hedeflerin başarıyla tamamlandığı görüldü. Toplanda ulaşılması beklenen 120 puanlık iş tamamlandı. Takım üyeleri bireysel olarak hedeflerini yerine getirdi ve herkes ihtiyacı olan takım üyesine yardımcı oldu. Yapılmaya karar verilen oyun için tüm takım üyeleri ortak görüş belirtti. Bir sonraki sprintte oyun içi asset çeşitliliğinin arttırılmasına ve oyun mekaniklerinin çeşitlendirilmesine karar verildi. 
 
----
+
 
 # Sprint 2
 
