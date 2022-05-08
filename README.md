@@ -70,7 +70,8 @@ https://trello.com/b/tu02JcC2/proje-takip
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
- 
+ ![6fdxly](https://user-images.githubusercontent.com/93587698/167309434-14d9b3f5-dfe4-4973-b5e4-9d304fd80bd4.gif)
+
 
 - **Sprint Review**: 
 Sprint sonunda yazılacak olan genel görüşler.
