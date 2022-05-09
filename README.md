@@ -67,7 +67,7 @@ Sprint Görevleri ve Puanları
 8- Oyun karakteri belirlenecek (player)                   10P          DONE
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde her sprint'in 120 puandan oluşması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog düzeni ve storyler birbirlerini tamamlayacak şekilde iş akışına uygun şekilde düzenlenmiştir. Backloglar işi yapacak kişilere atanmış ve içerisine yapılan işlerle ilgili ayrıntılar eklenmiştir.
 
