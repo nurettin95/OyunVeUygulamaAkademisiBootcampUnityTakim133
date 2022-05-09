@@ -95,7 +95,7 @@ Sprint Görevleri ve Puanları
 
 - **Sprint Review**: 
 
-Sprint başında takım tanışma sürecini hızlı atlattı ve projeye odaklanmak için yeterli zaman bulabildik. Sprint içerisinde olabildiğince sık toplantılar yaparak tüm takımın projenin işleyişinden haberdar olmasını hedefledik. Hedeflerimize karar verirken gerçekçi olmayı ve takımın iş kapasitesini göz önünde bulundurarak sptint planlaması yaptık. Ortak görüşlerimiz sonucunda bir oyun fikrine karar verdik ve bunun üsütünden bir oyun tasarım belgesi oluşturarak iş bölümü yaptık. Yapılan iş bölümlerini bireysel olarak yerine getirdik ve son hallerini takım olarak belirledik. 
+Sprint başında takım tanışma sürecini hızlı atlattı ve projeye odaklanmak için yeterli zaman bulabildik. Sprint içerisinde olabildiğince sık toplantılar yaparak tüm takımın projenin işleyişinden haberdar olmasını hedefledik. Hedeflerimize karar verirken gerçekçi olmayı ve takımın iş kapasitesini göz önünde bulundurarak sprint planlaması yaptık. Ortak görüşlerimiz sonucunda bir oyun fikrine karar verdik ve bunun üsütünden bir oyun tasarım belgesi oluşturarak iş bölümü yaptık. Yapılan iş bölümlerini bireysel olarak yerine getirdik ve son hallerini takım olarak belirledik. Sprint içerisinde yeterince toplantı yaptık ancak toplantı aralıkları düzenli değildi bu da her toplatıdan sonra bir sonraki toplantıya kadar yapılacak işleri belirlemeyi zorlaştırdı. Bir sonraki sprintte toplantı aralıklarını daha düzenli hale getirerek toplantı sonrası iş paylaşımı yapmayı daha verimli hale getireceğiz.
 
 - **Sprint Retrospective:**
 
