@@ -105,6 +105,36 @@ Toplantıda yaptığımız değerlendirmeler sonucunda Sprint içerisinde yapıl
 
 # Sprint 2
 
+- **Sprint Notları**:
+
+- User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- Sprint sonunda ulaşılması belenilen puana ulaşıldı ve verilen görevler tüm takım üyeleri tarafından başarıyla tamamlandı.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+Sprint Görevleri ve Puanları
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde her sprint'in 120 puandan oluşması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog düzeni ve storyler birbirlerini tamamlayacak şekilde iş akışına uygun şekilde düzenlenmiştir. Backloglar işi yapacak kişilere atanmış ve içerisine yapılan işlerle ilgili ayrıntılar eklenmiştir.
+
+-Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello üzerindeki tabloda iş akışına göre sıralama yapılmıştır.
+
+- **Daily Scrum**: Daily Scrum toplantılarının Slack, Discord ve Whatsapp üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantısı örneği jpeg formatında Readme'de tarafımızdan paylaşılmaktadır
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+
+- **Sprint Review**: 
+
+
+- **Sprint Retrospective:**
+ 
 
 ---
 
