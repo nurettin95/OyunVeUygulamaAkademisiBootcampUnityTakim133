@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 using UnityEngine.UI;
 
 public class ItemCollector : MonoBehaviour
@@ -8,7 +9,7 @@ public class ItemCollector : MonoBehaviour
 
     int puan = 0;
     
-    [SerializeField] Text puanText;
+    [SerializeField] TextMeshProUGUI puanText;
 
     private void OnTriggerEnter(Collider other)
     {
