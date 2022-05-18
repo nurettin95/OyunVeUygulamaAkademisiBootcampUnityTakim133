@@ -174,8 +174,14 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD:WisdomRunner/Assets/Prefabs/pencil.prefab
   - component: {fileID: 3047808642926956019}
   - component: {fileID: 8178741477109194032}
+=======
+  - component: {fileID: 7122488122969093319}
+  - component: {fileID: -4254345550280698537}
+  - component: {fileID: 4090811629842450825}
+>>>>>>> df01dcd542614fd14caf4737669c5b1b887380b0:WisdomRunner/Assets/Prefabs/Collectibles/pencil.prefab
   m_Layer: 0
   m_Name: pencil
   m_TagString: Untagged
@@ -213,10 +219,43 @@ BoxCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
+<<<<<<< HEAD:WisdomRunner/Assets/Prefabs/pencil.prefab
   serializedVersion: 2
   m_Size: {x: 0.20933732, y: 1.1716222, z: 0.20040354}
   m_Center: {x: 0.003606268, y: 0.01205299, z: 0.0009562959}
 --- !u!1 &4524642527481046014
+=======
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c0e9ba2b438ca45bca36af81bccee156, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &4090811629842450825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7607698637731311229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outlineMode: 0
+  outlineColor: {r: 0.0477852, g: 0.9811321, b: 0, a: 1}
+  outlineWidth: 6
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
+--- !u!1 &8527872116964858570
+>>>>>>> df01dcd542614fd14caf4737669c5b1b887380b0:WisdomRunner/Assets/Prefabs/Collectibles/pencil.prefab
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
