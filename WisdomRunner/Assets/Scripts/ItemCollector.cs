@@ -12,7 +12,7 @@ public class ItemCollector : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.gameObject.CompareTag("Book"))
+        if(other.gameObject.CompareTag("artiPuan"))
         {
             Destroy(other.gameObject);
             puan++;
