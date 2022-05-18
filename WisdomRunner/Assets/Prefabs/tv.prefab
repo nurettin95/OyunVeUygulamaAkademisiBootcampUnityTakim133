@@ -97,9 +97,10 @@ GameObject:
   m_Component:
   - component: {fileID: 8534879233658865632}
   - component: {fileID: 3424688508829560703}
+  - component: {fileID: 4224521354768777792}
   m_Layer: 0
   m_Name: tv
-  m_TagString: Untagged
+  m_TagString: Negative
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -133,3 +134,21 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.38396284, y: 1.9303229, z: 2.6181257}
   m_Center: {x: -0.021456815, y: 0.71121025, z: -0.013444274}
+--- !u!114 &4224521354768777792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9023573035363867994}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outlineMode: 0
+  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineWidth: 5
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []

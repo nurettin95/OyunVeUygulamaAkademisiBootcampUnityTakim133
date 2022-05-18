@@ -93,11 +93,17 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 8170540687326724543}
   - component: {fileID: 6428438572574884983}
+=======
+  - component: {fileID: 9155074531259005206}
+  - component: {fileID: 5631569995080360027}
+  - component: {fileID: 5159050394734615127}
+>>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Controller
-  m_TagString: Untagged
+  m_TagString: Negative
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -129,5 +135,28 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< Updated upstream
   m_Size: {x: 6.8680573, y: 1.5780406, z: 4.7916036}
   m_Center: {x: -0.016636848, y: 0.28901988, z: 0.43601295}
+=======
+  m_Size: {x: 6.8130608, y: 1.2697994, z: 4.8326874}
+  m_Center: {x: -0.12526721, y: -0.05614586, z: 0.71266174}
+--- !u!114 &5159050394734615127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8378537449879200684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outlineMode: 0
+  outlineColor: {r: 1, g: 0, b: 0, a: 1}
+  outlineWidth: 5
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
+>>>>>>> Stashed changes

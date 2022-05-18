@@ -12,14 +12,18 @@ public class ItemCollector : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+<<<<<<< Updated upstream
         if(other.gameObject.CompareTag("artiPuan"))
+=======
+        if(other.gameObject.CompareTag("Positive"))
+>>>>>>> Stashed changes
         {
             Destroy(other.gameObject);
             puan++;
             puanText.text = "Puan: " + puan;
         }
 
-        if(other.gameObject.CompareTag("eksiPuan"))
+        if(other.gameObject.CompareTag("Negative"))
         {
             Destroy(other.gameObject);
             puan--;
