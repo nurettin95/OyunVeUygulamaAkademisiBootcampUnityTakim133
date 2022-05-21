@@ -9,11 +9,6 @@ public class PlayerController : MonoBehaviour
     private float currentRunSpeed;
     public float limitX;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        currentRunSpeed = runSpeed;
-    }
 
     // Update is called once per frame
     void Update()
@@ -32,7 +27,7 @@ public class PlayerController : MonoBehaviour
         newX = transform.position.x + xSpeed * touchXDelta * Time.deltaTime;
         newX = Mathf.Clamp(newX, -limitX, limitX);
 
-        Vector3 newPosition = new Vector3(newX, transform.position.y,transform.position.z + currentRunSpeed * Time.deltaTime);
+        Vector3 newPosition = new Vector3(newX, transform.position.y,transform.position.z + runSpeed * Time.deltaTime);
         transform.position = newPosition;
     }
 }
