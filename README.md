@@ -162,7 +162,7 @@ https://docs.google.com/document/d/1xWEmKyOGuN3STwn-F-ygl2Z4o9ekk3qS/edit?usp=sh
 
 - **Sprint Retrospective:**
  
- Toplantıda yaptığımız değerlendirmeler sonucunda sprint içinde belirlediğimiz görevlerin hepsinin yapıldığını gördük. Hedeflenen 120 puana ulaştık. Beklentilerimizin de üstünde bir hızla görevleri tamamladığımızı fark ettik. Üstlendiğimiz görevlerin bazen tek başımıza halledemediğimizde birbirimize yardımcı olduk ve takım olabildik.
+ Toplantıda yaptığımız değerlendirmeler sonucunda sprint içinde belirlediğimiz görevlerin hepsinin yapıldığını gördük. Hedeflenen 120 puana ulaştık. Beklentilerimizin de üstünde bir hızla görevleri tamamladığımızı fark ettik. Üstlendiğimiz görevleri bazen tek başımıza halledemediğimizde birbirimize yardımcı olduk ve takım olabildik.
  
 
 ---
