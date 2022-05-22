@@ -134,6 +134,7 @@ Sprint Görevleri ve Puanları
 -Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello üzerindeki tabloda iş akışına göre sıralama yapılmıştır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının Slack, Discord ve Whatsapp üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantısı örneği jpeg formatında Readme'de tarafımızdan paylaşılmaktadır
+- 
 
 
 - **Sprint board update**: Sprint board screenshotları: 
