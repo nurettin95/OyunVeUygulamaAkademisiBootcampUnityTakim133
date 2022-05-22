@@ -157,8 +157,12 @@ https://docs.google.com/document/d/1xWEmKyOGuN3STwn-F-ygl2Z4o9ekk3qS/edit?usp=sh
 
 - **Sprint Review**: 
 
+2. Sprint tarihi geldiğinde ilk toplantı tarihimizi belirledik. Trello kullanarak iş bölümü yaptık. Kimin ne yapabileceğini düşünerek hareket ettik ve herkesin yapabileceği şekilde görev dağılımı yaptık. Bulunan assetler incelendi. Neredeyse her gün WhatsApp kullanarak iletişimde kaldık. Haftada en az bir kez toplantı yaptık. Birbirimizin müsaitlik durumlarını da göz önünde bulundurduğumuz için toplantılarda vs nadir sapmalar olsa da başarılı bir sprint oldu. 
+
 
 - **Sprint Retrospective:**
+ 
+ Toplantıda yaptığımız değerlendirmeler sonucunda sprint içinde belirlediğimiz görevlerin hepsinin yapıldığını gördük. Hedeflenen 120 puana ulaştık. Beklentilerimizin de üstünde bir hızla görevleri tamamladığımızı fark ettik. Üstlendiğimiz görevlerin bazen tek başımıza halledemediğimizde birbirimize yardımcı olduk ve takım olabildik.
  
 
 ---
