@@ -140,6 +140,12 @@ Sprint Görevleri ve Puanları
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+![WisdomRunnerGamePlay](https://user-images.githubusercontent.com/93587698/169707112-d0cdf4c0-122b-4df2-a17d-4b63de78dc14.gif)
+![uı1](https://user-images.githubusercontent.com/93587698/169707119-935be5a8-64a8-4c62-a67d-dcd2b5d86084.JPG)
+![gameplay1](https://user-images.githubusercontent.com/93587698/169707122-d74f02dd-b44f-4a73-91b5-f8ded9857d01.JPG)
+
+
+
 
 
 - **Sprint Review**: 
