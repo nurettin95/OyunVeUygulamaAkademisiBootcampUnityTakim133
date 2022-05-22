@@ -114,6 +114,18 @@ Toplantıda yaptığımız değerlendirmeler sonucunda Sprint içerisinde yapıl
 
 Sprint Görevleri ve Puanları
 
+1- Oyun için belirlenen assetler proje içerisine dahil edilecek.                           10P     DONE
+
+2- Nesnelerin player ile temasında yok olması için Destroy mekaniği yazılacak.             20P     DONE
+
+3- Puan Mekaniği oluşturulacak toplanan nesnelere göre artı ya da eksi puan kazanılacak.   25P     DONE
+
+4- Başlangıç ve Bölüm geçiş sahneleri için UI tasarımı yapılacak.                          20P     DONE
+
+5-  Nesnelerin türünü belirten bir outline eklenecek.                                      20P     DONE
+
+6- Bölüm sonu bitiş çizgisi mekaniği ve animasyonu eklenecek.                              25P     DONE
+
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde her sprint'in 120 puandan oluşması gerektiğine karar verildi.
 
