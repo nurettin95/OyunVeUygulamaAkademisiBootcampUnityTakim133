@@ -138,6 +138,8 @@ Sprint Görevleri ve Puanları
 
 
 - **Sprint board update**: Sprint board screenshotları: 
+-![image](https://user-images.githubusercontent.com/93587698/169707876-dfaf91b8-1f5d-4267-83f6-406ed865e280.png)
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
