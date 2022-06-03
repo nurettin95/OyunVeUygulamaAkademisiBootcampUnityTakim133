@@ -243,7 +243,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1221881175}
         m_TargetAssemblyTypeName: sceneLoader, Assembly-CSharp
-        m_MethodName: SahneDegistir
+        m_MethodName: NewGame
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

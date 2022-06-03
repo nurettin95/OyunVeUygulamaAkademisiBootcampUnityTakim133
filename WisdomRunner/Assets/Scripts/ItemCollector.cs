@@ -8,22 +8,46 @@ public class ItemCollector : MonoBehaviour
 {
 
     public static int puan;
-    
     [SerializeField] TextMeshProUGUI puanText;
+
+    void Start()
+    {
+        puan = PlayerPrefs.GetInt("CurrentPlayerScore");
+    }
+
+    void Update()
+    {
+        if (puan < 0)
+            puan = 0;
+        puanText.text = "Puan: " + puan;
+    }
+
+    public void ArtiPuan ( int _puan)
+    {
+        puan += _puan;
+        PlayerPrefs.SetInt ("CurrentPlayerScore", puan);
+    }
+
+    public void EksiPuan ( int _puan)
+    {
+        puan -= _puan;
+        PlayerPrefs.SetInt ("CurrentPlayerScore", puan);
+    }
+
 
     private void OnTriggerEnter(Collider other)
     {
         if(other.gameObject.CompareTag("Positive"))
         {
             Destroy(other.gameObject);
-            puan++;
+            ArtiPuan(4);
             puanText.text = "Puan: " + puan;
         }
 
         if(other.gameObject.CompareTag("Negative"))
         {
             Destroy(other.gameObject);
-            puan--;
+            EksiPuan(4);
             puanText.text = "Puan: " + puan;
         }
         Debug.Log(puan);
