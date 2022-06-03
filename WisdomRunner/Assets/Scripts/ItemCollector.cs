@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class ItemCollector : MonoBehaviour
 {
 
-    int puan = 0;
+    public static int puan;
     
     [SerializeField] TextMeshProUGUI puanText;
 
