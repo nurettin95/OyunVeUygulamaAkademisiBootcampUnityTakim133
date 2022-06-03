@@ -9,6 +9,11 @@ public class sceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene(sahne_id);
     }
+    public void NextScene()
+    {
+        int next_idx = SceneManager.GetActiveScene().buildIndex+1;
+        SceneManager.LoadScene(next_idx);
+    }
 
     public void QuitGame()
     {

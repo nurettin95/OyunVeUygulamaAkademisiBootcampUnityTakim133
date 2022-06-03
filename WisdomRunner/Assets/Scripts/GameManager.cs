@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-
     [SerializeField] GameObject finishLine;
     [SerializeField] GameObject player;
-    [SerializeField] PlayerController pcon;
+    [SerializeField] PlayerController pctrl;
     [SerializeField] Animator anim;
+    [SerializeField] GameObject levelEndUI;
 
     // Update is called once per frame
     void Update()
@@ -16,8 +16,9 @@ public class GameManager : MonoBehaviour
         if (isLevelEnd())
         {
             anim.Play("Hip Hop Dancing");
-            pcon.runSpeed = 0;
-            pcon.xSpeed = 0;
+            pctrl.runSpeed = 0;
+            pctrl.xSpeed = 0;
+            levelEndUI.SetActive(true);
         }
     }
     

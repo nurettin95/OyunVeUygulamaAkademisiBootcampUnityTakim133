@@ -26,5 +26,6 @@ public class ItemCollector : MonoBehaviour
             puan--;
             puanText.text = "Puan: " + puan;
         }
+        Debug.Log(puan);
     }
 }
