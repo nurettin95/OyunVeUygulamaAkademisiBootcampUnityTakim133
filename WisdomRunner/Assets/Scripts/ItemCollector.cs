@@ -19,7 +19,7 @@ public class ItemCollector : MonoBehaviour
     {
         if (puan < 0)
             puan = 0;
-        puanText.text = "Puan: " + puan;
+        puanText.text = "Score: " + puan;
     }
 
     public void ArtiPuan ( int _puan)
@@ -41,14 +41,14 @@ public class ItemCollector : MonoBehaviour
         {
             Destroy(other.gameObject);
             ArtiPuan(4);
-            puanText.text = "Puan: " + puan;
+            puanText.text = "Score: " + puan;
         }
 
         if(other.gameObject.CompareTag("Negative"))
         {
             Destroy(other.gameObject);
             EksiPuan(4);
-            puanText.text = "Puan: " + puan;
+            puanText.text = "Score: " + puan;
         }
         Debug.Log(puan);
     }
