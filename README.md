@@ -169,4 +169,70 @@ https://docs.google.com/document/d/1xWEmKyOGuN3STwn-F-ygl2Z4o9ekk3qS/edit?usp=sh
 
 # Sprint 3
 
+- **Sprint Notları**:
+
+- User Story'ler product backlog'ların yanına yazılmıştır.
+- Sprint sonunda ulaşılması beklenilen puana ulaşıldı ve verilen görevler tüm takım üyeleri tarafından başarıyla tamamlandı.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+Sprint Görevleri ve Puanları
+
+1- Oyuna 4 level daha eklenecek ve level design yapılacak. 10p
+
+2- Oyun logosu oluşturulacak. 10P
+
+3- Mobil optimizasyonları yapılacak. 10P
+
+4- Game Over Screen yapılacak. 10P
+
+5- Sahne geçişleri için next level butonu yapılacak. 10P
+
+6- level sonu puanları toplanacak. Yeni level başladığında bir önceki level puanları dahil edilecek. 10P
+
+7- Oyun tasarım belgesi proje planlaması ve alınan yeni kararlar doğrultusunda güncellenecek. 10P
+
+8- Tanıtım videosu hazırlanacak. 15P
+
+9- apk. çıktı alınacak. 15P
+
+10- Toplam puan 5 bölüm sonunda oyun sonu ekranına verilecek. 10P
+
+11- 5. level sonunda alınan puana göre ilgili sahneye geçiş yapılacak. Oyuncu result tuşunu yaptığında aldığı puana göre 5 sahneden birine yönlendirilecek. 10P
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde her sprint'in 120 puandan oluşması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog düzeni ve storyler birbirlerini tamamlayacak şekilde iş akışına uygun şekilde düzenlenmiştir. Backloglar işi yapacak kişilere atanmış ve içerisine yapılan işlerle ilgili ayrıntılar eklenmiştir.
+
+-Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello üzerindeki tabloda iş akışına göre sıralama yapılmıştır.
+
+- **Daily Scrum**: Daily Scrum toplantılarının Slack, Discord ve Whatsapp üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantısı örneği jpeg formatında Readme'de tarafımızdan paylaşılmaktadır
+
+
+
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+
+
+
+
+
+- **Sprint Review**: 
+
+
+
+
+- **Sprint Retrospective:**
+ 
+
+ 
+
 ---
