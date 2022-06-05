@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 103
+  controlID: 70
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 17
+  controlID: 71
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 18
+  controlID: 72
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,14 +325,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes/EndGameScenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "D:\\UnityProjectsGit\\AkademiBootcapTak\u0131m133\\OyunVeUygulamaAkademisiBootcampUnityTakim133\\WisdomRunner"
+  m_LastProjectPath: C:\Users\CI\Documents\OyunVeUygulamaAkademisiBootcampUnityTakim133\WisdomRunner
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c25c0000
-    m_LastClickedID: 23746
-    m_ExpandedIDs: 00000000905c0000925c0000945c0000965c0000985c00009a5c000000ca9a3bffffff7f
+    m_SelectedIDs: 2e970000
+    m_LastClickedID: 38702
+    m_ExpandedIDs: 00000000e6960000f296000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000905c0000925c0000945c0000965c0000985c00009a5c0000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,7 +490,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 3ce3ffff20e6ffff18ebffff64f0ffff2ef4ffffb6f7ffff36fbffff265e000078620000b0670000b06d0000
+      m_ExpandedIDs: 8ae3feff6ce6feff50e9feff66edfeff38f1feffeaf4feff72f9feff8008ffffb013ffffac1effff6e28ffffca33ffffae3fffff964affffa254fffffa54ffff8e63ffff926effff6a79ffff2683fffffc8cffff2c99ffffaaa4ffffdcbdffff48c0ffff4ec1ffff4497000052970000f6970000a2ac000014ad000030ad0000f2ae00002ec60000a0c60000dec70000fac700009cc90000cec90000decb000022cc00007ace000046cf00003ad000007ed00000d8d0000094d1000070d3000024d50000d4d6000096d80000f6db0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -739,9 +739,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 333.3026, y: 1096.8588, z: 44.709743}
+    m_Target: {x: 590.20215, y: 1626.3546, z: -75.12342}
     speed: 2
-    m_Value: {x: 366.88702, y: 1114.4534, z: 41.171814}
+    m_Value: {x: 585.8681, y: 1605.6567, z: -73.485756}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -788,13 +788,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.10810533, y: -0.00622987, z: 0.00071408576, w: -0.9941871}
+    m_Target: {x: -0.04230101, y: 0.008724049, z: -0.00033294538, w: -0.99913496}
     speed: 2
-    m_Value: {x: -0.10810533, y: -0.0062298705, z: 0.0007140858, w: -0.9941871}
+    m_Value: {x: -0.043796685, y: 0.008722945, z: -0.0003460111, w: -0.9990024}
   m_Size:
-    m_Target: 1856.2996
+    m_Target: 1278.6038
     speed: 2
-    m_Value: 1776.3632
+    m_Value: 1223.5443
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -891,20 +891,20 @@ MonoBehaviour:
       y: 21
       width: 1107
       height: 630
-    m_Scale: {x: 0.3390625, y: 0.3390625}
-    m_Translation: {x: 553.5, y: 314.99997}
+    m_Scale: {x: 0.328125, y: 0.328125}
+    m_Translation: {x: 553.5, y: 315}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1632.4424
-      y: -929.03217
-      width: 3264.8848
-      height: 1858.0645
+      x: -1686.8572
+      y: -960
+      width: 3373.7144
+      height: 1920
     m_MinimalGUI: 1
-  m_defaultScale: 0.3390625
+  m_defaultScale: 0.328125
   m_LastWindowPixelSize: {x: 1107, y: 651}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
