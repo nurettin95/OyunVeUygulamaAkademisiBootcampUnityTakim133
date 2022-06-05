@@ -50,6 +50,5 @@ public class ItemCollector : MonoBehaviour
             EksiPuan(4);
             puanText.text = "Score: " + puan;
         }
-        Debug.Log(puan);
     }
 }
