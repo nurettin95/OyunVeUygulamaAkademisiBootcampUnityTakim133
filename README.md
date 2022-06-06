@@ -43,7 +43,7 @@ Referanslar ayrıca GDD içerisinde de yer almaktadır. CC-BY olan tüm assetler
 Quick Outline: https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488#publisher
 Karakter: https://www.mixamo.com/#/?page=1&query=Aj&type=Character
 Animasyonlar:
-1-	 https://www.mixamo.com/#/?page=1&query=fast+run
+1-	https://www.mixamo.com/#/?page=1&query=fast+run
 2-	https://www.mixamo.com/#/?page=1&query=chicken
 3-	https://www.mixamo.com/#/?page=1&query=breathing+idle
 4-	https://www.mixamo.com/#/?page=1&query=hokey+pokey
