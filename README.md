@@ -22,9 +22,12 @@ Wisdom Creators
 
 - https://www.youtube.com/watch?v=iZzkJ35Q07Y
 
-## APK
+## APK URL
   
 - https://drive.google.com/file/d/1QxrDM4R79J7lkOfM2qWv3Wt7q61q-HN-/view?usp=sharing
+
+## GDD URL
+- https://docs.google.com/document/d/1-fYoPVu3fMzj1V53CEySQyspTccVOM8X/edit?usp=sharing&ouid=116715525687799103462&rtpof=true&sd=true
 
 ## Ürün Açıklaması
 
