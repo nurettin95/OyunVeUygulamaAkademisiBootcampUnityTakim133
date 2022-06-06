@@ -37,6 +37,50 @@ Tüm oyunculara hitap edebilecek türden bir oyundur. Oyun bir öğrencinin, ö�
 
 https://trello.com/b/tu02JcC2/proje-takip
 
+**Hazır Kullanılan Assetler**: Referansları:
+
+Quick Outline: https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488#publisher
+Karakter: https://www.mixamo.com/#/?page=1&query=Aj&type=Character
+Animasyonlar:
+1-	 https://www.mixamo.com/#/?page=1&query=fast+run
+2-	https://www.mixamo.com/#/?page=1&query=chicken
+3-	https://www.mixamo.com/#/?page=1&query=breathing+idle
+4-	https://www.mixamo.com/#/?page=1&query=hokey+pokey
+5-	https://www.mixamo.com/#/?page=1&query=rejected
+6-	https://www.mixamo.com/#/?page=1&query=shaking+it+off
+7-	https://www.mixamo.com/#/?page=1&query=hip+hop+dancing
+
+Puan kazandıran nesneler ve referansları
+
+Kitap:
+Book (Red) by Darwin Yamamoto [CC-BY], via Poly Pizza
+
+Kalem:
+Simple Pencil! by Aaron Fimple [CC-BY], via Poly Pizza
+
+Saksafon:
+Saxophone by jeremy [CC-BY], via Poly Pizza
+
+Puan kaybettiren nesneler ve referansları
+
+Telefon:
+TIME HOTEL 1.20 by S. Paul Michael [CC-BY], via Poly Pizza
+	
+
+Televizyon:
+TV by jeremy [CC-BY], via Poly Pizza
+
+
+Oyun Kolu:
+Black Game Pad Controller by Paul Spooner [CC-BY], via Poly Pizza
+
+Oyun içi etkileşimsiz nesneler ve referansları
+Finish line material:
+https://assetstore.unity.com/packages/3d/environments/roadways/race-tracks-140501#description
+
+Kırık kitaplık:
+broken bookshelf by Justin Randall [CC-BY], via Poly Pizza
+
 ---
 
 # Sprint 1
@@ -235,6 +279,51 @@ Sprint Görevleri ve Puanları
 ![9](https://user-images.githubusercontent.com/93587698/172147269-611f7a4d-a3cc-4882-bec7-99d9dcf62de2.JPG)
 ![10](https://user-images.githubusercontent.com/93587698/172147270-732d2259-9201-47d9-9fbe-fd886756f62d.JPG)
 ![11](https://user-images.githubusercontent.com/93587698/172147271-8f241b06-8bcc-4f29-a557-5c1cdd8909fb.JPG)
+
+- **Hazır Kullanılan Assetler**: Referansları:
+
+Quick Outline: https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488#publisher
+Karakter: https://www.mixamo.com/#/?page=1&query=Aj&type=Character
+Animasyonlar:
+1-	 https://www.mixamo.com/#/?page=1&query=fast+run
+2-	https://www.mixamo.com/#/?page=1&query=chicken
+3-	https://www.mixamo.com/#/?page=1&query=breathing+idle
+4-	https://www.mixamo.com/#/?page=1&query=hokey+pokey
+5-	https://www.mixamo.com/#/?page=1&query=rejected
+6-	https://www.mixamo.com/#/?page=1&query=shaking+it+off
+7-	https://www.mixamo.com/#/?page=1&query=hip+hop+dancing
+
+Puan kazandıran nesneler ve referansları
+
+Kitap:
+Book (Red) by Darwin Yamamoto [CC-BY], via Poly Pizza
+
+Kalem:
+Simple Pencil! by Aaron Fimple [CC-BY], via Poly Pizza
+
+Saksafon:
+Saxophone by jeremy [CC-BY], via Poly Pizza
+
+Puan kaybettiren nesneler ve referansları
+
+Telefon:
+TIME HOTEL 1.20 by S. Paul Michael [CC-BY], via Poly Pizza
+	
+
+Televizyon:
+TV by jeremy [CC-BY], via Poly Pizza
+
+
+Oyun Kolu:
+Black Game Pad Controller by Paul Spooner [CC-BY], via Poly Pizza
+
+Oyun içi etkileşimsiz nesneler ve referansları
+Finish line material:
+https://assetstore.unity.com/packages/3d/environments/roadways/race-tracks-140501#description
+
+Kırık kitaplık:
+broken bookshelf by Justin Randall [CC-BY], via Poly Pizza
+
 
 
 
