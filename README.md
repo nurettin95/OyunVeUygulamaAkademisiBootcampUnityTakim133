@@ -38,6 +38,7 @@ Tüm oyunculara hitap edebilecek türden bir oyundur. Oyun bir öğrencinin, ö�
 https://trello.com/b/tu02JcC2/proje-takip
 
 **Hazır Kullanılan Assetler**: Referansları:
+Referanslar ayrıca GDD içerisinde de yer almaktadır.
 
 Quick Outline: https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488#publisher
 Karakter: https://www.mixamo.com/#/?page=1&query=Aj&type=Character
