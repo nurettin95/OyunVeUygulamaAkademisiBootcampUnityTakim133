@@ -41,8 +41,11 @@ https://trello.com/b/tu02JcC2/proje-takip
 Referanslar ayrıca GDD içerisinde de yer almaktadır. CC-BY olan tüm assetlerin ticari ve bireysel kullınım izinleri bulunmaktadır.Tüm assetler ücretsiz olarak indirilmiştir.
 
 Quick Outline: https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488#publisher
+
 Karakter: https://www.mixamo.com/#/?page=1&query=Aj&type=Character
+
 Animasyonlar:
+
 1-	https://www.mixamo.com/#/?page=1&query=fast+run
 2-	https://www.mixamo.com/#/?page=1&query=chicken
 3-	https://www.mixamo.com/#/?page=1&query=breathing+idle
@@ -283,10 +286,15 @@ Sprint Görevleri ve Puanları
 
 - **Hazır Kullanılan Assetler**: Referansları:
 
+Referanslar ayrıca GDD içerisinde de yer almaktadır. CC-BY olan tüm assetlerin ticari ve bireysel kullınım izinleri bulunmaktadır.Tüm assetler ücretsiz olarak indirilmiştir.
+
 Quick Outline: https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488#publisher
+
 Karakter: https://www.mixamo.com/#/?page=1&query=Aj&type=Character
+
 Animasyonlar:
-1-	 https://www.mixamo.com/#/?page=1&query=fast+run
+
+1-	https://www.mixamo.com/#/?page=1&query=fast+run
 2-	https://www.mixamo.com/#/?page=1&query=chicken
 3-	https://www.mixamo.com/#/?page=1&query=breathing+idle
 4-	https://www.mixamo.com/#/?page=1&query=hokey+pokey
