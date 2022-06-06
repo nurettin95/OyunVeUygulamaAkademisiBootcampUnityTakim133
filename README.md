@@ -214,6 +214,7 @@ Sprint Görevleri ve Puanları
 
 
 - **Sprint board update**: Sprint board screenshotları: 
+![3 sprint board](https://user-images.githubusercontent.com/93587698/172145272-0fed4c0d-1e2e-4e49-bfd5-7492a15789c4.JPG)
 
 
 
