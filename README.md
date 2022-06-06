@@ -223,6 +223,17 @@ Sprint Görevleri ve Puanları
 
 
 
+![1](https://user-images.githubusercontent.com/93587698/172147257-ef657955-e3ee-433c-a52c-d2345404df06.JPG)
+![2](https://user-images.githubusercontent.com/93587698/172147260-98b473da-741a-488c-9f0e-c33a23584041.JPG)
+![3](https://user-images.githubusercontent.com/93587698/172147261-5391f49f-1fb0-4468-862a-11e28626a64c.JPG)
+![4](https://user-images.githubusercontent.com/93587698/172147262-33bdec30-99f0-42dc-b1a9-0db8458ec572.JPG)
+![5](https://user-images.githubusercontent.com/93587698/172147263-59e83f2f-9ea8-4614-8429-e8b9b16d89bf.JPG)
+![6](https://user-images.githubusercontent.com/93587698/172147265-7da7227f-ca5f-439b-8c54-90e991acf8e4.JPG)
+![7](https://user-images.githubusercontent.com/93587698/172147266-ec07a6c1-078b-4853-88af-6d4d33c2a466.JPG)
+![8](https://user-images.githubusercontent.com/93587698/172147267-6624b2bd-573d-40bf-a03b-bb64e6655e68.JPG)
+![9](https://user-images.githubusercontent.com/93587698/172147269-611f7a4d-a3cc-4882-bec7-99d9dcf62de2.JPG)
+![10](https://user-images.githubusercontent.com/93587698/172147270-732d2259-9201-47d9-9fbe-fd886756f62d.JPG)
+![11](https://user-images.githubusercontent.com/93587698/172147271-8f241b06-8bcc-4f29-a557-5c1cdd8909fb.JPG)
 
 
 
