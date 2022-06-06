@@ -38,7 +38,7 @@ Tüm oyunculara hitap edebilecek türden bir oyundur. Oyun bir öğrencinin, ö�
 https://trello.com/b/tu02JcC2/proje-takip
 
 ## Hazır Kullanılan Assetler ve Referansları
-Referanslar ayrıca GDD içerisinde de yer almaktadır.
+Referanslar ayrıca GDD içerisinde de yer almaktadır. CC-BY olan tüm assetlerin ticari ve bireysel kullınım izinleri bulunmaktadır.Tüm assetler ücretsiz olarak indirilmiştir.
 
 Quick Outline: https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488#publisher
 Karakter: https://www.mixamo.com/#/?page=1&query=Aj&type=Character
