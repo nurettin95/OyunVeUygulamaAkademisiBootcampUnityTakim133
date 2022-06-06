@@ -237,12 +237,13 @@ Sprint Görevleri ve Puanları
 
 
 
+
 - **Sprint Review**: 
-
-
+3. sprint takımımız için sonuç odaklı bir sprint oldu. Önceki sprintlerde yapmış olduğumuz çalışmaların iyi ve kullanılabilir çalışmalar olması sonuca ulaşmamızda çok yardımcı oldu. Tüm takım üyeleri kendilerine verilen görevleri başarıyla yerine getirdi ve her anlamda birbirine yardımcı oldu. Önceki sprintlerde almış oldumuğumuz ve çalışmamızı daha da kaliteli yapacak kararlar uygulandı. 
 
 
 - **Sprint Retrospective:**
+Tüm sprintler için uygun görülen ve sprint başına 120 puana denk gelen tüm işler eksiksiz tamamlandı. Herşeyden önce takımca yapmaktan keyif aldığımız bir projeyi sonuca ulaştırmış olduk. Projeyi arayüz anlamında daha güzel yapmayı ekstra zaman bulabilmemiz durumunda yapmak istiyorduk. Ancak takımımızda bu iş için uygun birinin olmaması ve bu iş yükünün belirlenen ana işlere engel olma riski olduğu için ekstra arayüz çalışması yapmamayı tercih ettik. 
  
 
  
