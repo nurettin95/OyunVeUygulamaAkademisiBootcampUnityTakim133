@@ -21,8 +21,10 @@ Wisdom Creators
 ## Oyun videosu URL
 
 - https://www.youtube.com/watch?v=iZzkJ35Q07Y
-  
 
+## APK
+  
+- https://drive.google.com/file/d/1QxrDM4R79J7lkOfM2qWv3Wt7q61q-HN-/view?usp=sharing
 
 ## Ürün Açıklaması
 
